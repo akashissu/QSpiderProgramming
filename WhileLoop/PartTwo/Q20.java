@@ -15,18 +15,12 @@ public class Q20 {
 
             sum *= 6;
             i++;
-
-
             }
 
         System.out.println("The Series Sum Is :"+sum);
-        return sum;
-            
-            
+        return sum;    
         }
         
-    
-
     public static void main(String[] args) {
         printSeries(100);
     }
